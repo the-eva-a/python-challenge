@@ -71,15 +71,6 @@ Raymon Anthony Doane: 3.14% (11606)
 Winner: Diana DeGette
 ```
 
-## Requirements
-
-The scripts should:
-- Read in the CSV files correctly.
-- Print results to the terminal.
-- Export results to a text file.
-- Run error-free with consistent results.
-- Have clean and commented code.
-
 ## Usage
 
 1. Clone the repository:
